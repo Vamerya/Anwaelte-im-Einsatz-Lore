@@ -6,6 +6,8 @@ Anwälte im Einsatz
 Wie und was hängt mit wem in der Serie zusammen, wie setzen sich die Fälle und Charaktere zusammen?
 In dieser Repo geht es ganz alleine um die Geschichte der Serie.
 
+Die komplette Lore wird mit [Obsidian](https://obsidian.md/) bearbeitet und zusammengestellt.
+
 Inhaltsverzeichnis
 -
 
