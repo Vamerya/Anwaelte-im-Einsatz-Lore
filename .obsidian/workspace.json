@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Bernd Roemer"
             }
+          },
+          {
+            "id": "2e3b06459cfb6882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ralf Vogel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ralf Vogel"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bernd Roemer.md",
+                "file": "Ralf Vogel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bernd Roemer"
+              "title": "Backlinks for Ralf Vogel"
             }
           },
           {
@@ -150,13 +164,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Ralf Vogel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Ralf Vogel"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,9 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1305237682f0b434",
+  "active": "5ea2d98bfdccb858",
   "lastOpenFiles": [
     "Bernd Roemer.md",
+    "Ralf Vogel.md",
     "Untitled.canvas",
     "Welcome.md",
     "Anwaelte im Einsatz Lore/Welcome.md",
